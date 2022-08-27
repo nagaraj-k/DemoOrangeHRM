@@ -1,0 +1,28 @@
+In this project, I am preparing Test scenarios and test cases for Orange HRM demo site.
+
+All web elements (visible elements) of any page should be:
+Visible clearly
+No overlap of web elements
+Proper alignment
+Readable font, font size and color
+
+Verification Scenario
+
+1. URL
+2. Page Title
+3. Logo
+4. Username label
+5. Password label
+6. Username symbol
+7. Password symbol
+8. Login button
+9. Forgot your password? hyperlink
+10. OrageHRM branding
+11. Login label 
+12. Page footer
+13. Social media links
+14. Username and Password data block
+
+
+
+ 
